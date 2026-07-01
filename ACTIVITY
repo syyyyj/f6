@@ -3,4 +3,5 @@ git add f6_activity.txt
 git commit -m "Initial commit with explanation"
 git branch feature-update
 git checkout feature-update
+git checkout main git merge feature-update
 
